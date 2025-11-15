@@ -1,0 +1,48 @@
+header{
+  background-color: Gold;
+}
+main{
+  background-color: LightYellow;
+}
+.post{
+  background-color: #f7ef81;
+  border-radius: 30px;
+    border: solid 2px brown;
+  display: flex;
+  padding: 10px;
+}
+.post img {
+  margin-right: 20px;
+}
+
+.footer-columns{
+  display: flex;
+}
+.footer-column{
+  flex: 45%;
+  margin: 10px;
+}
+.coment{
+  background-color: white;
+  border: solid 2px gray;
+  margin-bottom: 8px;
+}
+h4{
+  margin 4px;
+}
+h5{
+  margin: 4px;
+}
+.text {
+  margin: 4px;
+}
+b{
+    font-family: "Jersey 10",sans-serif;
+font-weight: 600;
+  font-size: 40px;
+}
+  p{
+      font-family: "Pacifico",sans-serif;
+font-weight: 600;
+  font-size: 40px;
+  }
